@@ -1,0 +1,5 @@
+{
+  "name": "proactive-insights-demo-api",
+  "version": "1.0.0",
+  "dependencies": { "express": "^5" }
+}
